@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-getaway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-getaway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-client-module/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-company-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-company-module/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-employee-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-employee-module/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-project-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-project-module/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-project-transaction-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-project-transaction-module/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-user-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-user-module/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
